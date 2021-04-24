@@ -1,5 +1,4 @@
-# ORI-GENE
-A Tool for Gene Classification and Prediction of Function Based on the Evolutionary Tree
+# ORI-GENE: A Tool for Gene Classification and Prediction of Function Based on the Evolutionary Tree
 
 Motivation: Genome projects have produced large amounts of data on the sequences of new genes whose functions are as yet unknown. The functions of new genes are usually inferred by comparing their sequences with those of known genes, but evaluation of the sequence homology of individual genes does not make the most of the available sequence information. Therefore, new methods and tools for extracting more biological information from homology searches would be advantageous.
 
